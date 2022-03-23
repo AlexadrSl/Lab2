@@ -1,8 +1,0 @@
-D:\ДГТУ\3 курс\СИ шарп\CSharp\Lab2\Lab21\bin\Debug\Lab21.exe.config
-D:\ДГТУ\3 курс\СИ шарп\CSharp\Lab2\Lab21\bin\Debug\Lab21.exe
-D:\ДГТУ\3 курс\СИ шарп\CSharp\Lab2\Lab21\bin\Debug\Lab21.pdb
-D:\ДГТУ\3 курс\СИ шарп\CSharp\Lab2\Lab21\obj\Debug\Lab21.csproj.AssemblyReference.cache
-D:\ДГТУ\3 курс\СИ шарп\CSharp\Lab2\Lab21\obj\Debug\Lab21.csproj.SuggestedBindingRedirects.cache
-D:\ДГТУ\3 курс\СИ шарп\CSharp\Lab2\Lab21\obj\Debug\Lab21.csproj.CoreCompileInputs.cache
-D:\ДГТУ\3 курс\СИ шарп\CSharp\Lab2\Lab21\obj\Debug\Lab21.exe
-D:\ДГТУ\3 курс\СИ шарп\CSharp\Lab2\Lab21\obj\Debug\Lab21.pdb
